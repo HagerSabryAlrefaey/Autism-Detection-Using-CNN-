@@ -18,6 +18,6 @@ Test data consists of 400 mixed pictures of autistic and non autistic children
     pip install tflearn
     pip install tqdm
     ```
-    - run any of the models' files
+- run any of the models' files (Model1.py), (Model2.py)
 ## Results
    results will be saved in the Submit.csv file, where label 0 is non autistic and 1 is autistic
